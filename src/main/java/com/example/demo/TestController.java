@@ -18,6 +18,6 @@ public class TestController {
     }
     @GetMapping("api/version")
     public String version() {
-        return "v222";
+        return "아소성민";
     }
 }
